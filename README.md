@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szigor&label=Profile%20views&color=0e75b6&style=flat" alt="szigor" /> </p>
-
-- 📫 How to reach me **igor.szafalowicz@o2.pl**
+<p align="left"> <img src="https://www.codewars.com/users/szigor/badges/micro" alt="szigor" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
